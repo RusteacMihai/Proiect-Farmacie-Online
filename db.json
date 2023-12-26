@@ -1,0 +1,494 @@
+{
+  "produse": [
+    {
+      "id": 1,
+      "name": "Unguent propolis cu galbenele 20g HIP",
+      "price": "20",
+      "content": "  Unguentul cu propolis si galbenele are efect antibacterian, cicatrizant si regenerator, fiind indicat in tratarea ranilor superficiale sau a diverselor afectiuni ale pielii. Datorita principiilor active din compozitia lor, galbenele sunt eficiente in tratarea plagilor, arsurilor, degeraturilor, intepaturilor de insecte, dar si in caz de acnee. Propolisul are efect antiinflamator si antiviral, fiind de altfel cel mai bun antibiotic natural. Unguentul cu propolis si galbenele se aplica local, in strat subtire, tratand eficient leziunile si afectiunile cutanate. ",
+      "category": "adulti, naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/76203-27504---Unguent-propolis-cu-galbenele_215x215.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Assista Supozitoare cu glicerina copii 1400 mg X 12",
+      "price": "32",
+      "content": "Supozitoare cu glicerina pentru copii: 1 supozitor contine 1250 mg glicerina: excipienti (apa purificata, stearat de sodiu) pana la 1400 mg",
+      "category": "copii",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/037d0-assista-supozitoare_copii-800x800_215x215.jpg"
+    },
+    {
+      "id": 3,
+      "name": "ClinSkin Papilom Tratament Skin Tag",
+      "price": "12",
+      "content": " ClinSkin® Papilom este un dispozitiv de auto-ingrijire pentru indepartarea usoara, sigura si nedureroasa a papiloamelor ",
+      "category": " adulti,ingrijire",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/f1da8-clinskin-papilom-tratament-skin-tag_215x215.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Naturalis ArtroSuport RECE gel X 100 g",
+      "price": "16",
+      "content": "ArtroSuport gel rece este un produs topic, recomandat in ameliorarea durerilor musculare si articulare si reducerea inflamatiei din entorse, luxatii sau alte traumatisme minore ",
+      "category": "adulti,ingrijire, naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/13ac5-800x800px_artrosuport_rece_gel_cutie_tub_215x215.jpg"
+    },
+    {
+      "id": 5,
+      "name": "ACC junior sirop x 100 ml",
+      "price": "33",
+      "content": "ACC junior fluidizeaza mucusul si faciliteaza tusea. Este indicat in terapia secretolitica a afectiunilor tractului respirator: laringita, sinuzita",
+      "category": "copii",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/43b8f-acc-junior-20mg-ml-100ml-syr-ro_215x215.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Antinevralgic Forte x 20 comprimate",
+      "price": "23,5",
+      "content": "Cititi cu atentie si in intregime acest prospect inainte de a incepe sa luati acest medicament deoarece contine informatii importante pentru dumneavoastra.",
+      "category": " adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/d3570-antinevralgic-forte-20-comprimate-poza2-tceb_215x215.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Aspirin Plus C x 10 comprimate efervescente",
+      "price": "11",
+      "content": "ASPIRIN PLUS C contine acid acetilsalicilic si acid ascorbic ca si substante active",
+      "category": "adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/9120d-5948912000457_215x215.jpg"
+    },
+    {
+      "id": 8,
+      "name": "ACC lamaie si miere 600 mg x 10 plicuri pulbere pentru solutie orala",
+      "price": "16",
+      "content": "Indicatii, La adulti si adolescenti cu varsta peste 16 ani pentru tratamentul simptomatic al\ndurerilor de dinti\ndureri in gat\ndureri menstruale\ndureri musculare si articulare,\ndureri de spate\ndureri articulare minore.\nEste utilizat si pentru tratamentul simptomatic al durerii si febrei din cadrul racelii si gripei",
+        "category": "adulti","img": "https: //www.catena.ro/assets/uploads/product_images/thumbs/52d84-acc-lamaie-si-miere-600mg-10pos-ro_215x215.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Dicarbocalm X 30 comprimate masticabile",
+      "price": "6.5",
+      "content": "Dicarbocalm 30 de comprimate pentru tratamentul simptomatic al manifestarilor dureroase din afectiunile eso-gastro-duodenale care evolueaza cu hiperaciditate.",
+      "category": " adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/24783-dicarbocalm_215x215.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Essentiale MAX 600 mg X 30 capsule",
+      "price": "42",
+      "content": "Essentiale Max este un medicament care contribuie la buna functionare a ficatului si la mentinerea sanatatii acestuia.",
+      "category": " adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/00a60-essentiale-max-30-capsule-poza2-erwu_215x215.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Gaviscon cu aroma de capsuni x 24 comprimate masticabile",
+      "price": "34",
+      "content": "Acest medicament este utilizat pentru tratamentul simptomelor refluxului gastro-esofagian",
+      "category": "adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/02395-2.-gaviscon-capsuni-24-comprimate-masticabile_215x215.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Mucosolvan junior sirop X 100 ml",
+      "price": "24",
+      "content": "",
+      "category": " copii",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/37e3b-mucosolvan-junior-100ml-poza2-3kzq_215x215.jpg"
+    },
+    {
+      "id": 13,
+      "name": "No-Spa Forte 80mg x 24 comprimate filmate",
+      "price": "23",
+      "content": "",
+      "category": " adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/ba343-no-spa-forte-24-comprimate-filmate-poza2-bgar_215x215.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Nurofen Express 200 mg X 10 capsule moi",
+      "price": "13",
+      "content": "",
+      "category": " adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/172bc-5000158102989-packshot-01_215x215.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Nurofen Jr 7+ cu aroma de portocale 100 mg X 24 capsule moi masticabile",
+      "price": "33",
+      "content": "",
+      "category": " copii",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/9f9d3-5000158107021-1_215x215.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Paxeladine sirop 0.2 % x 125 ml",
+      "price": "12",
+      "content": "",
+      "category": " adulti, copii",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/ad667-paxeladine_215x215.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Prospan sirop X 100 ml",
+      "price": "70",
+      "content": "",
+      "category": " adulti, copii",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/b5199-prospan-sirop-100-ml-engelhard-arznemittel-2284_215x215.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Smecta cu portocale x 10 plicuri",
+      "price": "9",
+      "content": "",
+      "category": " adulti, copii",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/ab8d8-smecta10_215x215.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Strepsils intensiv miere si lamaie 8,75 mg X 24 pastile",
+      "price": "22",
+      "content": "",
+      "category": " adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/19c47-11c-_3019356_215x215.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Alevia Ceai imunitate X 20 plicuri",
+      "price": "6",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/427f7-cutie_ceai-20pl_imunitate_-30g-_r_800x800px_215x215.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Alevia Ceai medicinal hepatobiliar X 60 gr",
+      "price": "7",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/790e4-cutie_ceai-vrac_hepatobiliar_r_-800x800px-_215x215.jpg"
+    },
+    {
+      "id": 22,
+      "name": "AGHORAS Negriol ulei de negrilica (chimen negru) presat la rece, 100ml",
+      "price": "8",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/107917-aghoras-negriol-ulei-de-negrilicachimen-negru-presat-la-rece-100ml-_215x215.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Alevia Ceai antitusin x 20 plicuri",
+      "price": "8",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/79e6e-73666---Alevia-Ceai-antitusin_215x215.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Alevia Ceai rooibos cu vanilie, 35 g",
+      "price": "5",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/89961-alevia-ceai-rooibos-cu-vanilie-35-g_215x215.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Caramel Apple 20 plicuri piramida, 2g",
+      "price": "10",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/88467-caramel-apple-20-plicuri-piramida-2g_215x215.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Ceai antiadipos cu ginseng X 30 plicuri",
+      "price": "9",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/8e627-ceai_antiadipos_gingseng-e1530521748170-768x467_215x215.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Ceai antiadipos strong 2 g X 30 plicuri",
+      "price": "12",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/9eff2-53581_215x215.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Ceai antiadipos verde X 30 plicuri",
+      "price": "23",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/45ddd-ceai_antiadipos_30_plicuri_2gr-e1530520851790-768x753_215x215.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Ceai antistress x 20plic. FAR.",
+      "price": "16",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/6a5e4-20468-Ceai-antistress-x-20plic.-FAR_215x215.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Ceai aromafruct capsuni si fragi 20dz FAR",
+      "price": "7",
+      "content": "",
+      "category": "naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/0724c-fares-site_215x215.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Hofigal Supliform - Gel anticelulitic, 75ml",
+      "price": "12",
+      "content": "",
+      "category": " deSlabit",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/e018f-8588_215x215.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Visislim LIGHT x 30 cps.",
+      "price": "44",
+      "content": "",
+      "category": " deSlabit",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/ec2de-69992_215x215.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Alevia Silfide complex de slabit forte X 100 comprimate",
+      "price": "34",
+      "content": "",
+      "category": " deSlabit",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/83daa-silfide-complex-slabit-forte-100-comprimate_215x215.jpg"
+    },
+    {
+      "id": 34,
+      "name": "ROTTA NATURA Evening Primrose + Vitamina E, 30 capsule",
+      "price": "24",
+      "content": "",
+      "category": "deSlabit",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/22742--rotta-natura-evening-primrose-vitamina-e-30-capsule_215x215.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Zdrovit Apuretin Slim X 60 capsule",
+      "price": "32",
+      "content": "",
+      "category": " deSlabit",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/dfd23-apuretin-slim-3d_215x215.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Actiphedrine x 60 tb",
+      "price": "12",
+      "content": "",
+      "category": "deSlabit",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/62780-actiphedrine_215x215.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Admagra Forte x 15 cpr",
+      "price": "22",
+      "content": "",
+      "category": "deSlabit",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/4a769-67675_215x215.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Ceai aromafruct capsuni si fragi 20dz FAR",
+      "price": "18",
+      "content": "",
+      "category": " naturiste",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/0724c-fares-site_215x215.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Aloe ferox x 30 caps.",
+      "price": "30",
+      "content": "",
+      "category": " deSlabit",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/5eab7-69317_215x215.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Anastasia Valter shape x 30 caps",
+      "price": "41",
+      "content": "",
+      "category": "deSlabit",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/68a80-76631---Anastasia-Valter-shape_215x215.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Ceai Verde, 30 capsule",
+      "price": "8",
+      "content": "",
+      "category": " deSlabit",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/e3a1c-39744_215x215.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Naturalis Diolex Gel X 100 ml",
+      "price": "16",
+      "content": "",
+      "category": "vitamine, adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/984e5-diolex-gel_215x215.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Secom Vitamin C 1000mg, 100 capsule",
+      "price": "10",
+      "content": "",
+      "category": "vitamine, adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/5e0e9-vitamin-c-1000mg_215x215.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Minimartieni Gummy cu Echinacea X 60 jeleuri",
+      "price": "34",
+      "content": "",
+      "category": " copii,vitamine",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/0f8bf-minimartieni-gummy-echinacea_215x215.jpg"
+    },
+    {
+      "id": 45,
+      "name": "VirusBlock forte X 20 capsule vegetale",
+      "price": "55",
+      "content": "",
+      "category": " naturiste, vitamine, adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/a0206-barny-sr-virusblock-forte-20-cps-621629901471_215x215.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Naturalis VenoSuport Naturalis X 30 comprimate",
+      "price": "27",
+      "content": "",
+      "category": "naturiste,vitamine, adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/f3fda-venosuport_215x215.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Cetebe Imuno - Active x 60 caps.",
+      "price": "11",
+      "content": "",
+      "category": "vitamine, adulti",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/1bee4-cetebe-imuno-active-x-60cps_5949040101153_215x215.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Larogrip x 30compr.film. LARO",
+      "price": "66",
+      "content": "",
+      "category": "vitamine",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/9904e-51050---Larogrip-2_215x215.jpg"
+    },
+    {
+      "id": 49,
+      "name": "RILASTIL DAILY CARE Apa micelara X 250 ml",
+      "price": "53",
+      "content": "",
+      "category": "deIngrijire",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/3ab51-rilastil-daily-care-apa-micelara-x-250ml_215x215.jpg"
+    },
+    {
+      "id": 50,
+      "name": "RILASTIL AQUA Crema hidratanta cu SPF 15 X 50 ml",
+      "price": "74",
+      "content": "",
+      "category": " deIngrijire",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/3b122-aqua_moisturizing-cream_spf-15_50-ml-1-_215x215.jpg"
+    },
+    {
+      "id": 51,
+      "name": "RILASTIL PROGRESSION HD Ser antirid pentru activarea luminozitatii X 30 ml",
+      "price": "39",
+      "content": "",
+      "category": " deIngrijire",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/89674-attivatore-di-luminosita_800x800px_215x215.jpg"
+    },
+    {
+      "id": 52,
+      "name": "RILASTIL ELASTICIZING Fiole ingrijire piele sensibila, inelastica, cu cicatrici 10 X 5ml",
+      "price": "80",
+      "content": "",
+      "category": " deIngrijire",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/21b48-rilastil-elasticizing-fiole-ingrijire-piele-sensibila-inelastica-cu-cicatrici-10-x-5ml_215x215.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Fluid pentru contracararea imperfectiunilor celulitei X 250 ml",
+      "price": "97",
+      "content": "",
+      "category": " deIngrijire",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/728a0-rilastil-lipofusion-fluid-pt-contracararea-imperfectiunilor-celulitei-x-250ml_215x215.jpg"
+    },
+    {
+      "id": 54,
+      "name": "SUN SYSTEM AGE REPAIR Crema pentru ten cu SPF 50+ X 40ml",
+      "price": "69",
+      "content": "",
+      "category": " deIngrijire",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/17878-sun-system-age-repair-id-95711-spf-50-_40-ml_215x215.jpg"
+    },
+    {
+      "id": 55,
+      "name": "SUN SYSTEM BABY Spray transparent pentru copii SPF 50+ X 200 ml",
+      "price": "55",
+      "content": "",
+      "category": "deIngrijire",
+      "img": "https://www.catena.ro/assets/uploads/product_images/thumbs/bdc8a-sun-system-id-spray-transparent-copii-spf50-200-ml_215x215.jpg"
+    }
+  ],
+  "favorite": [
+    {
+      "id": 1,
+      "nameFavorite": "Test1",
+      "contentForum": "oliJ8I2KhiMkayGNsgLOuVUObKNWU5rEi9rG9hrRRXkWaMcGtlkhffVSp",
+      "imageForum": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCuvO-RiJe5gzTxvUB4wtDxP-YTVlbQu6_9qOY9jwd&s"
+    },
+    {
+      "id": 2,
+      "nameFavorite": "Test2",
+      "contentForum": "oliJ8I2KhiMkayGNsgLOuVUObKNWU5rEi9rG9hrRRXkWaMcGtlkhffVSp",
+      "imageForum": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCuvO-RiJe5gzTxvUB4wtDxP-YTVlbQu6_9qOY9jwd&s"
+    },
+    {
+      "id": 3,
+      "nameFavorite": "Test3",
+      "contentForum": "oliJ8I2KhiMkayGNsgLOuVUObKNWU5rEi9rG9hrRRXkWaMcGtlkhffVSp",
+      "imageForum": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCuvO-RiJe5gzTxvUB4wtDxP-YTVlbQu6_9qOY9jwd&s"
+    },
+    {
+      "id": 4,
+      "nameFavorite": "Test4",
+      "contentForum": "oliJ8I2KhiMkayGNsgLOuVUObKNWU5rEi9rG9hrRRXkWaMcGtlkhffVSp",
+      "imageForum": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCuvO-RiJe5gzTxvUB4wtDxP-YTVlbQu6_9qOY9jwd&s"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "nume": "name",
+      "prenume": "prenume",
+      "email": "email",
+      "parola": "password",
+      "isAdmin": true
+    }
+  ],
+  "comenzi": [
+    {
+      "id": "1",
+      "nume": "name",
+      "prenume": "prenume",
+      "email": "email",
+      "adresa": "adresa",
+      "oras": "oras",
+      "tara": "tara",
+      "telefon": "telefon",
+      "judet": "judet",
+      "codPostal": "codPostal",
+      "produseSelectate": "produse"
+    }
+  ]
+}

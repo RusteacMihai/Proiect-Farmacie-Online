@@ -1,0 +1,324 @@
+
+.ContainerSecundar {
+  display: flex;
+  margin: auto;
+
+  justify-content: space-between;
+  align-items: center;
+
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/18/16/51/leaves-1835780_640.jpg");
+  z-index: 1;
+  border-radius: 40px;
+  margin-bottom: 4px;
+
+}
+
+
+
+
+
+
+.LogoNavBar{
+  padding: 4px;
+  width: 60px;
+ 
+}
+
+.ContainerName {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+}
+
+
+
+
+
+.NavBarMobile {
+  display: none;
+}
+
+
+
+
+.Title {
+  display:flex;
+        justify-content:flex-start;
+      color:#06f41e;
+}
+
+.Butoane {
+
+  margin:10px;
+  padding:4px;
+  color:#b1f406;
+  font-size:20px;
+font-weight:700;
+text-decoration:none;
+
+}
+
+.Butoane:hover {
+  color: #5aeaba;
+}
+
+.cart2 {
+
+  width: 50px;
+  margin-right: 10px;
+  
+  border-radius: 40px
+}
+
+
+@media only screen and (min-width: 873px) and (max-width: 1024px) {
+
+  .ContainerSecundar {
+    display: flex;
+    margin: auto;
+    width: auto;
+    justify-content: space-between;
+    align-items: center;
+
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/18/16/51/leaves-1835780_640.jpg");
+    z-index: 1;
+    border-radius: 40px;
+    
+  }
+
+  .NavBarMobile {
+    display: none;
+  }
+.ContainerName {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+
+}
+
+.Title > h2{ 
+  display:flex;
+        justify-content:flex-start;
+      color:#06f41e;
+      font-size: 20px;
+
+}
+
+.LogoNavBar{
+  padding: 4px;
+  width: 50px;
+  height: auto;
+}
+
+
+
+.Butoane {
+
+  margin:6px;
+  padding:4px;
+  color:#b1f406;
+  font-size:15px;
+font-weight:700;
+text-decoration:none;
+}
+
+.ContainerButoane {
+  display: flex;
+  justify-content: flex-end;
+}
+.cart2 {
+
+  width: 40px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border-radius: 40px
+}
+
+  
+}
+
+@media only screen and (min-width: 601px) and (max-width: 872px) {
+
+    
+  .ContainerSecundar {
+    display: flex;
+    margin: auto;
+    width: auto;
+    justify-content: space-between;
+    align-items: center;
+ 
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/18/16/51/leaves-1835780_640.jpg");
+    z-index: 1;
+    border-radius: 40px;
+    
+  }
+
+  .ContainerName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+  
+  }
+
+
+  .LogoNavBar{
+    padding: 4px;
+    width: 40px;
+    height: auto;
+  }
+    
+  .Title > h2{ 
+    display:flex;
+          justify-content:flex-start;
+        color:#06f41e;
+        font-size: 20px;
+  
+  }
+
+  
+  .ButoaneTabletaDesktop {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .Butoane {
+
+    margin:5px;
+    padding:2px;
+    color:#b1f406;
+    font-size:15px;
+  font-weight:700;
+  text-decoration:none;
+  }
+
+  .Butoane:hover {
+    color: #5aeaba;
+  }
+
+  .cart2 {
+
+    width: 40px;
+    margin-right: 10px;
+   
+    border-radius: 40px
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+  .ContainerButoaneDesktop {
+    display: none; /* Ascunde butoanele desktop */
+  }
+  
+  
+  .ContainerSecundar {
+    display: flex;
+    margin: auto;
+    width: auto;
+    justify-content: space-between;
+    align-items: center;
+  
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/18/16/51/leaves-1835780_640.jpg");
+    z-index: 1;
+    border-radius: 40px;
+    
+  }
+
+  .ContainerName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+  
+  }
+
+ 
+  .LogoNavBar{
+    padding: 4px;
+    width: 35px;
+    height: auto;
+  }
+  
+  
+.Title > h2{ 
+  display:flex;
+        justify-content:flex-start;
+      color:#06f41e;
+      font-size: 20px;
+
+}
+
+  .NavBarMobile {
+    display: flex; /* Afișează NavBarMobile la lățimi de ecran de 600px sau mai mici */
+    flex-direction: column;
+    justify-content: flex-start;
+   align-items: center;
+
+    top:0;
+    width: 100%;
+   
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/18/16/51/leaves-1835780_640.jpg");
+    z-index: 1;
+  }
+
+  .toggle-button {
+    display: flex;
+    flex-direction:column;
+    align-content: center;
+    justify-content: flex-end;
+    cursor: pointer;
+    margin-top: 4px;
+    margin-right:25px;
+    width: 20px;
+   
+
+   
+  }
+
+  .toggle-button .bar {
+    background-color: #06f41e; /* Schimbați culoarea barelor după preferință */
+    height: 4px;
+    width: 25px;
+    margin: 3px 0;
+
+  }
+}
+
+.ButoaneMobile {
+
+  margin:5px;
+  padding:4px;
+  color:#b1f406;
+  font-size:10px;
+font-weight:700;
+text-decoration:none;
+
+}
+
+.ButoaneMobile:hover {
+  color: #5aeaba;
+}
+.ContainerButoane {
+ 
+  background:transparent;
+
+  
+}
+
+.ButoaneMini {
+  display: flex;
+  flex-direction: column;
+}
+.cart {
+
+  width: 30px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+
+ 
+  border-radius: 40px
+}

@@ -1,0 +1,36 @@
+.Container-formular {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 150px;
+  margin-bottom: 40px;
+  width: 1200px;
+  margin: auto;
+}
+
+.Container-label {
+  display: row;
+  justify-content: center;
+  align-content: center;
+  width: 1200px;
+}
+
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  .Container-formular {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 180px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin: auto;
+    width: auto;
+  }
+  .Container-label {
+    margin: auto;
+    width: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+}
