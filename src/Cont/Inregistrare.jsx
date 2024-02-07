@@ -236,6 +236,7 @@ const Inregistrare = () => {
         </div>
         <Link to="/user">
           <Button
+          style={{marginBottom:"20px"}}
             className="ButonInregistrare"
             variant="primary"
             onClick={handlesubmit}
