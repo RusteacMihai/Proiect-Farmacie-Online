@@ -5,6 +5,7 @@ export const ContainerPrincipal = styled.div`
 
   background-image: url("https://cdn.pixabay.com/photo/2016/11/18/16/51/leaves-1835780_640.jpg");
   width: 100%;
+
 `;
 
 export const ContainerAdresa = styled.div`
@@ -32,12 +33,12 @@ export const ContainerProgram = styled.div`
  display: flex;
   flex-direction: column;
   align-content: center;
-  margin: 20px;
-
+margin-left:20px;
+padding-bottom: 20px;
 `
 
 export const Contacte = styled.h1`
-margin:10px;
+margin-bottom:10px;
  color: white;
 `
 

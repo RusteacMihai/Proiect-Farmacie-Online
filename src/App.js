@@ -40,7 +40,7 @@ function App() {
   return (
     <div>
       <ShopContextProvider produse={Produse}>
-        <Routes>
+        <Routes >
           <Route path="/guest" element={<MainContainerGuest />} />
           <Route path="/admin/*" element={<Admin />} />
           <Route path="/user/*" element={<MainContainerUser />} />

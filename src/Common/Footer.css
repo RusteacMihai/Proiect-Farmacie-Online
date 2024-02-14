@@ -16,7 +16,8 @@
 
   text-align: center;
   transition: transform 0.3s ease-in-out;
-  margin-top: 30px;
+  border-top: solid 4px;
+  border-color: #06f41e;
 }
 
 .Logo {

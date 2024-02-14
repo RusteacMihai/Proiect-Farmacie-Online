@@ -9,7 +9,8 @@
   background-image: url("https://cdn.pixabay.com/photo/2016/11/18/16/51/leaves-1835780_640.jpg");
   z-index: 1;
   border-radius: 40px;
-  margin-bottom: 4px;
+border-bottom: solid 4px;
+border-color: #06f41e;
 
 }
 
