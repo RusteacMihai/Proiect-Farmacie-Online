@@ -60,6 +60,12 @@ function NavBar({ isGuest, isUser, isAdmin }) {
                   </Button>
                 </Link>
 
+                <Link to="/lista/produse">
+                    <Button className="ButoaneMobile" variant="link">
+                      Add/Delete
+                    </Button>
+                  </Link>
+
                 <Link to="/pageContact">
                   <Button className="ButoaneMobile" variant="link">
                     Contact
@@ -89,7 +95,7 @@ function NavBar({ isGuest, isUser, isAdmin }) {
                   </Button>
                 </Link>
 
-                <Link to="/guest">
+                <Link to="/Proiect-Farmacie-Online/guest">
                   <Button className="ButoaneMobile" variant="link">
                     Log Out
                   </Button>
@@ -131,7 +137,7 @@ function NavBar({ isGuest, isUser, isAdmin }) {
                     </Button>
                   </Link>
 
-                  <Link to="/guest">
+                  <Link to="/Proiect-Farmacie-Online/guest">
                     <Button className="ButoaneMobile" variant="link">
                       Log Out
                     </Button>
@@ -179,6 +185,12 @@ function NavBar({ isGuest, isUser, isAdmin }) {
                   </Button>
                 </Link>
 
+                <Link to="/lista/produse">
+                    <Button className="Butoane" variant="link">
+                      Add/Delete
+                    </Button>
+                  </Link>
+
                 <Link to="/pageContact">
                   <Button className="Butoane" variant="link">
                     Contact
@@ -209,7 +221,7 @@ function NavBar({ isGuest, isUser, isAdmin }) {
                   </Button>
                 </Link>
 
-                <Link to="/guest">
+                <Link to="/Proiect-Farmacie-Online/guest">
                   <Button className="Butoane" variant="link">
                     Log Out
                   </Button>
@@ -252,7 +264,7 @@ function NavBar({ isGuest, isUser, isAdmin }) {
                     </Button>
                   </Link>
 
-                  <Link to="/guest">
+                  <Link to="/Proiect-Farmacie-Online/guest">
                     <Button className="Butoane" variant="link">
                       Log Out
                     </Button>

@@ -1,6 +1,6 @@
 {
   "name": "project",
-  
+  "homepage": "https://rusteacmihai.github.io/Proiect-Farmacie-Online/",
   "version": "0.1.0",
   "proxy": "http://localhost:3002",
   "private": true,
