@@ -29,6 +29,7 @@ function App() {
   const [isGuest, setIsGuest] = React.useState(true);
   const [isUser, setIsUser] = React.useState(false);
   const [isAdmin, setIsAdmin] = React.useState(false);
+
   const navigate = useNavigate();
 
   const handleNavigation = (path) => {
@@ -37,11 +38,12 @@ function App() {
     setIsAdmin(path.startsWith("/admin"));
     navigate(path);
   };
+  
   return (
     <div>
       <ShopContextProvider produse={Produse}>
-        <Routes>
-          <Route path="/guest" element={<MainContainerGuest />} />
+        <Routes >
+        <Route path="/Proiect-Farmacie-Online/guest" element={<MainContainerGuest />} />
           <Route path="/admin/*" element={<Admin />} />
           <Route path="/user/*" element={<MainContainerUser />} />
 
@@ -68,7 +70,7 @@ function App() {
             element={<EditProduse />}
           ></Route>
 
-          <Route path="/" element={<MainContainerGuest />} />
+          <Route path="/Proiect-Farmacie-Online" element={<MainContainerGuest />} />
         </Routes>
       </ShopContextProvider>
     </div>
