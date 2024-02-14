@@ -4,6 +4,7 @@ import "./NavBar.css";
 import Button from "react-bootstrap/Button";
 
 import { Link } from "react-router-dom";
+import { right } from "@popperjs/core";
 
 function NavBar({ isGuest, isUser, isAdmin }) {
   const [navbarActive, setNavbarActive] = useState(false);
@@ -34,7 +35,7 @@ function NavBar({ isGuest, isUser, isAdmin }) {
         <div className="ContainerButoane">
         <div className={`NavBarMobile ${navbarActive ? "active" : ""}`}>
          
-            <Button style={{marginRight:"30px",marginBottom:"5px"}}  variant="link" className="toggle-button" onClick={handleToggle}>
+            <Button  variant="link" className="toggle-button" onClick={handleToggle} style={{marginRight:"30px"}}>
               <span className="bar"></span>
               <span className="bar"></span>
               <span className="bar"></span>
@@ -59,13 +60,6 @@ function NavBar({ isGuest, isUser, isAdmin }) {
                     Produse
                   </Button>
                 </Link>
-
-                
-                <Link to="/lista/produse">
-                    <Button className="ButoaneMobile" variant="link">
-                      Add/Delete
-                    </Button>
-                  </Link>
 
                 <Link to="/lista/produse">
                     <Button className="ButoaneMobile" variant="link">
@@ -191,6 +185,12 @@ function NavBar({ isGuest, isUser, isAdmin }) {
                     Produse
                   </Button>
                 </Link>
+
+                <Link to="/lista/produse">
+                    <Button className="Butoane" variant="link">
+                      Add/Delete
+                    </Button>
+                  </Link>
 
                 <Link to="/pageContact">
                   <Button className="Butoane" variant="link">

@@ -32,7 +32,8 @@ export const ContainerProgram = styled.div`
  display: flex;
   flex-direction: column;
   align-content: center;
-  margin: 20px;
+  margin-left: 20px;
+  padding-bottom: 20px;
 
 `
 

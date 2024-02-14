@@ -7,15 +7,23 @@ export const Container = styled.div`
   margin: auto;
   gap: 20px;
   margin-top: 40px;
-  height: 130vh;
+  height: 100vh;
 
   width: 500px;
 
+ 
+  @media only screen and (min-width:1025px) and (max-width: 3000px) {
+
+}
+
+  @media only screen and (min-width: 872px) and (max-width: 1024px) {
+    height: 130vh;
+  }
 
   @media only screen and (min-width: 601px) and (max-width: 872px) {
     margin-top: 40px;
     width: 400px;
-height: 96vh;
+height: 140vh;
     gap: 10px;
   }
 
