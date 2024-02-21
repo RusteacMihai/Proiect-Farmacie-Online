@@ -2,7 +2,6 @@
   "name": "project",
   "homepage": "https://rusteacmihai.github.io/Proiect-Farmacie-Online/",
   "version": "0.1.0",
-
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -24,6 +23,7 @@
   "scripts": {
     "deploy": "npm run build && gh-pages -d build",
     "start": "react-scripts start   ",
+    "start-mock": "json-server --watch db.json --port 3002",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -47,6 +47,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "json-server": "^1.0.0-alpha.23"
   }
 }
