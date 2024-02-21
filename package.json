@@ -22,7 +22,7 @@
   },
   "scripts": {
     "deploy": "npm run build && gh-pages -d build",
-    "start": "nodemon --exec npm run start-mock",
+    "start": "react-scripts start && nodemon --exec npm run start-mock",
     "start-mock": "json-server --watch db.json --port 3002",
     "build": "react-scripts build",
     "test": "react-scripts test",

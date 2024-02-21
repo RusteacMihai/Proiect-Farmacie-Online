@@ -70,7 +70,7 @@ function App() {
             element={<EditProduse />}
           ></Route>
 
-          <Route basename="/Proiect-Farmacie-Online" element={<MainContainerGuest />} />
+          <Route path="/Proiect-Farmacie-Online" element={<MainContainerGuest />} />
         </Routes>
       </ShopContextProvider>
     </div>
