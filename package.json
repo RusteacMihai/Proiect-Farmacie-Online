@@ -22,8 +22,8 @@
   },
   "scripts": {
     "deploy": "npm run build && gh-pages -d build",
-    "start": "react-scripts start && nodemon --exec npm run start-mock",
-    "start-mock": "json-server --watch db.json --port 3002",
+    "start": "react-scripts start",
+    "start-mock-server": "json-server --watch db.json --port 3002",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
