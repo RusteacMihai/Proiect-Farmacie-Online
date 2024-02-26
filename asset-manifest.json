@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Proiect-Farmacie-Online/static/css/main.bd263a36.css",
+    "main.js": "/Proiect-Farmacie-Online/static/js/main.d186a1f9.js",
+    "static/js/787.917857b7.chunk.js": "/Proiect-Farmacie-Online/static/js/787.917857b7.chunk.js",
+    "static/media/medium-shot-pharmacist-working.jpg": "/Proiect-Farmacie-Online/static/media/medium-shot-pharmacist-working.078fb33103f15fcb97c8.jpg",
+    "static/media/8935971.jpg": "/Proiect-Farmacie-Online/static/media/8935971.d24493e8da4e3126c255.jpg",
+    "static/media/8559887.jpg": "/Proiect-Farmacie-Online/static/media/8559887.c4808bf55bf02c8344da.jpg",
+    "index.html": "/Proiect-Farmacie-Online/index.html",
+    "main.bd263a36.css.map": "/Proiect-Farmacie-Online/static/css/main.bd263a36.css.map",
+    "main.d186a1f9.js.map": "/Proiect-Farmacie-Online/static/js/main.d186a1f9.js.map",
+    "787.917857b7.chunk.js.map": "/Proiect-Farmacie-Online/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd263a36.css",
+    "static/js/main.d186a1f9.js"
+  ]
+}
